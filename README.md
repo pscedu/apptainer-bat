@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/github/license/pscedu/singularity-bat)
 
 # apptainer-bat
+![](https://raw.githubusercontent.com/sharkdp/bat/42153f2b9997cd514f8984c96a72927fda95e6db/doc/logo-header.svg)
 Apptainer recipe for [bat](https://github.com/sharkdp/bat).
 
 ---
